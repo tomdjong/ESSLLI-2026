@@ -25,7 +25,7 @@ Note that lectures 2–5 will be blackboard/whiteboard lectures.
 See [resources.pdf](resources.pdf) and [the slides for the first
 lecture](lecture-1.pdf) for a brief discussion.
 
-## Feedback
+## Audience feedback
 Your feedback on the lectures is most appreciated!
 - [Feedback form for Lecture 1](https://forms.gle/NWmsuoEhQJX4x59Q8)
 - [Feedback form for Lecture 2](https://forms.gle/ZYerJ99LqewcMdeYA)
